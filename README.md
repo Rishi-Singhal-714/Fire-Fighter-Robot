@@ -47,7 +47,6 @@ An intelligent ESP32-based robot designed to detect and extinguish fires in indo
 | Battery Pack 9V       | 1        |
 | Batter Cell 3.3V      | 2        |
 | Jumper Wires          | -        |
-|-----------------------|----------|
 
 ## 🔁 Working Principle
 
