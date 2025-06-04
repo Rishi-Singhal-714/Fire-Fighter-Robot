@@ -19,7 +19,6 @@ An intelligent ESP32-based robot designed to detect and extinguish fires in indo
 ## 📸 Project Preview
 ![1746870092782](https://github.com/user-attachments/assets/290dda99-44ea-4614-a18a-f659ab7211eb)
 ![1746870094081](https://github.com/user-attachments/assets/c8e32c65-f3c4-4cdc-a755-4fef58940915)
-![1746870090396](https://github.com/user-attachments/assets/48c26017-c817-4bdc-8dfa-9c465bf3c34b)
 *A look at the robot in action (include a real or simulated image)*
 
 ---
